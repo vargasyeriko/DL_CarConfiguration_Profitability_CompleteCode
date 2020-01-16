@@ -3,4 +3,5 @@ Complete code for the construction of manageable models and more specific tables
 
 
 here to cargo_s
-https://cargo.site/Templates
+Find report clicking the following 
+https://reportstas2.cargo.site/admin/content
